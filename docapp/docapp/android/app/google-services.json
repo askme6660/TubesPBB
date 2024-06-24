@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1046473965392",
+    "project_id": "medpharma-6344e",
+    "storage_bucket": "medpharma-6344e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046473965392:android:9cb009c27fdb2ffe14f655",
+        "android_client_info": {
+          "package_name": "com.example.docapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046473965392-cngmf8trt3ir5g5v498tl410shicmc0v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.docapp",
+            "certificate_hash": "9edc9c2839b4cdf4d7869200194cd67cc210e6b9"
+          }
+        },
+        {
+          "client_id": "1046473965392-1mj89tri88fle447pq10udnsiu07k2kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV5XOmB5ByjUJidkHgw7I-pPeNWrpOlGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046473965392-1mj89tri88fle447pq10udnsiu07k2kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
